@@ -1,9 +1,8 @@
-Aplicativo do Programa de Fidelização de Clientes "FIDELIZE JÁ"
-Loja Requinte dos Sabores
+Termo de Uso do Programa de Fidelização de Clientes "FIDELIZE JÁ"
 
 1. Introdução
 
-O Aplicativo do Programa de Fidelização de Clientes "FIDELIZE JÁ" da Loja Requinte dos Sabores tem como objetivo recompensar nossos clientes pela preferência e fidelidade. Este termo estabelece as regras e condições para a participação no programa.
+O Programa de Fidelização de Clientes "FIDELIZE JÁ" da Loja Requinte dos Sabores tem como objetivo recompensar nossos clientes pela preferência e fidelidade. Este termo estabelece as regras e condições para a participação no programa.
 
 2. Acúmulo de Estrelas
 
@@ -19,17 +18,26 @@ Resgate de Prêmio: Ao completar 10 estrelas, referente a 10 compras realizadas 
 
 Reinício do Programa: Após completar as 10 estrelas e resgatar o prêmio, o sistema será zerado. Isso significa que todas as estrelas voltarão a ficar vazias. O cliente continuará a participar do programa e poderá acumular novas estrelas a partir da próxima compra.
 
-5. Considerações Finais
+5. Validade das Estrelas
 
-Este programa é exclusivo para clientes da Loja Requinte dos Sabores.
-A participação no programa implica na aceitação integral destes termos e condições.
+Prazo para Acumulação: O cliente deve completar as 10 Estrelas Douradas em até 1 ano a partir da data de cadastro. Caso contrário, as estrelas acumuladas voltarão a ser zeradas.
+
+6. Considerações Finais
+
+Este programa é exclusivo para clientes da Loja Requinte dos Sabores. A participação no programa implica na aceitação integral destes termos e condições.
+
 A loja se reserva o direito de alterar as regras do programa a qualquer momento, com aviso prévio aos clientes.
+
 Agradecemos por escolher a Loja Requinte dos Sabores! Seu carinho e preferência são a nossa maior recompensa.
 
-6. Aceitação dos Termos
+7. Aceitação dos Termos
 
 Ao participar do programa "FIDELIZE JÁ", o cliente concorda com todos os termos e condições aqui estabelecidos.
 
 Caso não aceite os termos de uso do programa, pedimos que não prossiga com o cadastro.
 
 Agradecemos pela compreensão e pelo seu interesse em nosso programa de fidelidade!
+
+Atenciosamente,
+
+Requinte dos Sabores
